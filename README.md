@@ -1,8 +1,8 @@
 👋<h1 align="center">Hi 👋, I'm Shekemi Ruth Oluwayemi</h1>
-<h3 align="center">Data Scientist | ML Engineer | AI Solution Builder</h3>
+<h3 align="center">Data Scientist | ML Engineer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Olive1644&color=blueviolet&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/she%2Fher-pronouns-ff69b4?style=flat" />
 </p>
 
